@@ -1,0 +1,21 @@
+{
+    "name": "hero-tours-api",
+    "description": "hero tours from angular 2 tutorial",
+    "main": "server-app.js",
+    "authors": [
+    "Otawara <anas.demnati2@gmail.com>"
+    ],
+    "license": "ISC",
+    "moduleType": [],
+    "homepage": "",
+    "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+    ],
+    "dependencies": {
+    "bootstrap": "^3.3.6",
+    "foundation": "^5.5.3",
+    "angular": "^1.5.2"
+    }
+}
